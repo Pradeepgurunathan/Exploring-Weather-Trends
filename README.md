@@ -11,11 +11,19 @@ In this report I have considered Dublin city temparature data and it has been co
 
 ## Progress outline:
 Extract the data :
+
 • Downloading 2 data files from SQL database as CSV.
+
 Create a line chart :
+
 • Calculating the Moving Average (Rolling Average) to make it easier to observe the trends when it be shown in Charts.
+
 • Visualizing the Data Using matplotlib
+
 Make observations :
+
 • I made observations the i saw related to the data "you can find more details on the Report file"
+
 • I made a conclusion about the data.
+
 more details are existed in the Report file.
