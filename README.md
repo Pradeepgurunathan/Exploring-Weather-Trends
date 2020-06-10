@@ -1,6 +1,6 @@
 # Exploring-Weather-Trends
 
-In this Weather Trends project we will be analysing the local and global temperature data and also compare temperature trends where I reside to overall global tempature trends.
+In this Weather Trends project we will be analyzing the local and global temperature data and also compare temperature trends where I reside to overall global temperature trends.
 # Introduction
 
 We all know that global temperature is increasing and according to NOAA 2019 Global Climate Summary, the combined land and ocean temperature has increased at an average rate of 0.07°C (0.13°F) per decade since 1880; however, the average rate of increase since 1981 (0.18°C / 0.32°F) is more than twice as great.
